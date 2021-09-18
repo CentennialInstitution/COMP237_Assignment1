@@ -277,7 +277,7 @@ park.add_thing(water, 7)
 park.add_thing(newfood, 9)
 park.add_thing(mohammed, 12)
 
-park.run(20)
+park.run(18)
     
     
     
